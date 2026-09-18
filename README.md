@@ -12,7 +12,6 @@ Agent-native AI tutoring workspace based on [HKUDS/DeepTutor](https://github.com
 
 - Category: Education / AI Tutoring
 - Tags: AI · Auth · Database
-- Original Project: [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 Vectoree provides the backend for model serving, search, authentication, database, and storage.
 
@@ -26,7 +25,6 @@ Long-horizon super agent harness for research, coding, and creation, with Vector
 
 - Category: Super Agent / Coding / Research
 - Tags: AI · Functions
-- Original Project: [ByteDance/deer-flow](https://github.com/bytedance/deer-flow)
 
 Vectoree provides the backend for model serving, search, authentication, database, and storage.
 
@@ -40,7 +38,6 @@ Open-source RAG engine for document understanding — replace model, search, DB,
 
 - Category: RAG / AI Search
 - Tags: AI · Database · Storage
-- Original Project: [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 Vectoree provides the backend for model serving, search, authentication, database, and storage.
 
@@ -54,7 +51,6 @@ Self-hosted ChatGPT-style UI — connect its AI backend, auth, and storage to Ve
 
 - Category: AI Chat / Self-hosted
 - Tags: AI · Auth · Storage
-- Original Project: [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 
 Vectoree provides the backend for model serving, authentication, database, and storage.
 
@@ -68,7 +64,6 @@ Visual no/low-code agent studio — power models, auth, and tools through Vector
 
 - Category: Agent Studio / No-Code
 - Tags: AI · Auth · Functions
-- Original Project: [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
 
 Vectoree provides the backend for model serving, authentication, database, and storage.
 
