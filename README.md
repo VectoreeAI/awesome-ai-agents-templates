@@ -8,33 +8,71 @@ Explore ready-to-use AI agent templates built from popular open-source projects 
 
 ### DeepTutor
 
-[![GitHub](https://img.shields.io/badge/GitHub-HKUDS%2FDeepTutor-black?logo=github)](https://github.com/HKUDS/DeepTutor)
-
 Agent-native AI tutoring workspace based on [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor).
 
-- **Category:** Education / AI Tutoring
-- **Tags:** AI · Auth · Database
-- **Original Project:** [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+- Category: Education / AI Tutoring
+- Tags: AI · Auth · Database
+- Original Project: [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 Vectoree provides the backend for model serving, search, authentication, database, and storage.
 
-**Get started:** [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
 
 ---
 
 ### DeerFlow
 
-[![GitHub](https://img.shields.io/badge/GitHub-ByteDance%2Fdeer--flow-black?logo=github)](https://github.com/bytedance/deer-flow)
-
 Long-horizon super agent harness for research, coding, and creation, with Vectoree as the backend.
 
-- **Category:** Super Agent / Coding / Research
-- **Tags:** AI · Functions
-- **Original Project:** [ByteDance/deer-flow](https://github.com/bytedance/deer-flow)
+- Category: Super Agent / Coding / Research
+- Tags: AI · Functions
+- Original Project: [ByteDance/deer-flow](https://github.com/bytedance/deer-flow)
 
 Vectoree provides the backend for model serving, search, authentication, database, and storage.
 
-**Get started:** [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### RAGFlow
+
+Open-source RAG engine for document understanding — replace model, search, DB, and storage with Vectoree.
+
+- Category: RAG / AI Search
+- Tags: AI · Database · Storage
+- Original Project: [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
+Vectoree provides the backend for model serving, search, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### LibreChat
+
+Self-hosted ChatGPT-style UI — connect its AI backend, auth, and storage to Vectoree.
+
+- Category: AI Chat / Self-hosted
+- Tags: AI · Auth · Storage
+- Original Project: [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Coze Studio
+
+Visual no/low-code agent studio — power models, auth, and tools through Vectoree.
+
+- Category: Agent Studio / No-Code
+- Tags: AI · Auth · Functions
+- Original Project: [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
 
 ---
 
