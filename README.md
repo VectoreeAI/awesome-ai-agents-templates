@@ -246,6 +246,60 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Open WebUI
+
+Self-hosted user-friendly AI chat interface (Ollama / OpenAI-compatible) based on [open-webui/open-webui](https://github.com/open-webui/open-webui).
+
+Upstream license is custom with branding restrictions.
+
+- Category: AI Chat / Self-hosted
+- Tags: AI · Auth · Storage
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Paperclip
+
+Open-source app for managing agents at work based on [paperclipai/paperclip](https://github.com/paperclipai/paperclip).
+
+- Category: Agent Ops / Team Management
+- Tags: AI · Auth · Functions
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Open Design
+
+Collaborative AI design agent workspace based on [nexu-io/open-design](https://github.com/nexu-io/open-design).
+
+- Category: Design Agent / Workspace
+- Tags: AI · Auth · Storage
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### nanobot
+
+Lightweight open-source personal agent based on [HKUDS/nanobot](https://github.com/HKUDS/nanobot).
+
+- Category: Personal Agent / Self-hosted
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
