@@ -164,6 +164,88 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Sim
+
+Collaborative workspace to build, deploy, and monitor AI agents and workflows based on [simstudioai/sim](https://github.com/simstudioai/sim).
+
+- Category: Agent Workspace / Workflow Ops
+- Tags: AI · Auth · Database · Functions
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Activepieces
+
+Open-source AI agents and MCP-centric workflow automation based on [activepieces/activepieces](https://github.com/activepieces/activepieces).
+
+Core is MIT; packages/ee is separately licensed.
+
+- Category: AI Automation / MCP Agents
+- Tags: AI · Functions · Auth
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Pipecat
+
+Open-source framework for realtime voice and multimodal agents based on [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat).
+
+- Category: Voice Agent / Realtime
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### FastGPT
+
+Knowledge-based RAG and visual AI workflow platform based on [labring/FastGPT](https://github.com/labring/FastGPT).
+
+Upstream license is Apache-2.0 with additional restrictions.
+
+- Category: Knowledge Agent / Visual Workflow
+- Tags: AI · Auth · Database · Storage
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Eliza
+
+Open-source agentic operating system for autonomous and multi-agent apps based on [elizaOS/eliza](https://github.com/elizaOS/eliza).
+
+- Category: Autonomous Agents / Agent OS
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### WrenAI
+
+Governed text-to-SQL / GenBI agent stack based on [Canner/WrenAI](https://github.com/Canner/WrenAI).
+
+- Category: Data Agent / Text-to-SQL
+- Tags: AI · Database
+
+Vectoree provides the backend for model serving, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
