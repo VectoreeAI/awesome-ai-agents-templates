@@ -300,6 +300,64 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### n8n
+
+Fair-code workflow automation platform with native AI capabilities based on [n8n-io/n8n](https://github.com/n8n-io/n8n).
+
+Upstream license is Sustainable Use License (fair-code) with additional commercial restrictions.
+
+- Category: AI Automation / Visual Workflow
+- Tags: AI · Functions · Auth
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Odysseus
+
+Self-hosted AI workspace based on [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus).
+
+Upstream license is AGPL-3.0.
+
+- Category: AI Workspace / Self-hosted
+- Tags: AI · Auth · Database · Storage
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### LobeHub
+
+Chief Agent Operator for hiring, scheduling, and reporting on AI agent teams based on [lobehub/lobehub](https://github.com/lobehub/lobehub).
+
+Upstream license is Apache-2.0 with additional commercial restrictions for derivatives.
+
+- Category: Agent Operator / Multi-Agent
+- Tags: AI · Auth · Functions
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Open Interpreter
+
+Local coding agent for open models based on [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter).
+
+- Category: Coding Agent / Local CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
