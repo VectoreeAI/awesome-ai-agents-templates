@@ -358,6 +358,75 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### OpenCode
+
+Open-source coding agent based on [anomalyco/opencode](https://github.com/anomalyco/opencode).
+
+- Category: Coding Agent / Dev Automation
+- Tags: AI · Functions · Storage
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### AutoGPT
+
+Accessible autonomous agent platform for building and running agents based on [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT).
+
+Upstream is mixed — MIT for much of the repo; `autogpt_platform/` uses Polyform Shield (additional commercial restrictions).
+
+- Category: Autonomous Agent / Agent Platform
+- Tags: AI · Auth · Functions
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### goose
+
+Extensible open-source AI agent that can install, execute, edit, and test with any LLM based on [aaif-goose/goose](https://github.com/aaif-goose/goose).
+
+- Category: Coding Agent / Local Agent
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Cherry Studio
+
+Desktop AI workspace for models, agents, and productivity based on [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio).
+
+Upstream license is AGPL-3.0.
+
+- Category: AI Workspace / Desktop
+- Tags: AI · Auth · Storage
+
+Vectoree provides the backend for model serving, authentication, database, and storage.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### MoneyPrinterTurbo
+
+Automated AI workflow that generates HD short videos from a topic or keyword based on [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo).
+
+- Category: Video Agent / Content Automation
+- Tags: AI · Functions · Storage
+
+Vectoree provides the backend for model serving, storage, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
