@@ -427,6 +427,71 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Cline
+
+Autonomous coding agent as an SDK, IDE extension, and CLI based on [cline/cline](https://github.com/cline/cline).
+
+- Category: Coding Agent / IDE & CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Hermes Agent
+
+Self-improving personal agent with multi-channel gateway, cron, and memory based on [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent).
+
+- Category: Personal Agent / Self-improving
+- Tags: AI · Functions · Auth
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### bolt.diy
+
+Prompt-to-full-stack web app builder using any LLM based on [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy).
+
+- Category: App Builder / Full-stack
+- Tags: AI · Functions · Storage
+
+Vectoree provides the backend for model serving, storage, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Letta
+
+Platform for stateful agents with advanced memory that learn over time based on [letta-ai/letta](https://github.com/letta-ai/letta).
+
+- Category: Stateful Agent / Memory Platform
+- Tags: AI · Database · Functions
+
+Vectoree provides the backend for model serving, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Agent Zero
+
+Personal agent with a full Linux desktop sandbox based on [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero).
+
+- Category: Personal Agent / Desktop Sandbox
+- Tags: AI · Functions · Storage
+
+Vectoree provides the backend for model serving, storage, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
