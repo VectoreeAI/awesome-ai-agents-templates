@@ -492,6 +492,75 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### OpenClaw
+
+Multi-channel personal AI assistant with a local gateway for WhatsApp, Telegram, Slack, and Discord based on [openclaw/openclaw](https://github.com/openclaw/openclaw).
+
+- Category: Personal Agent / Multi-channel
+- Tags: AI · Functions · Auth
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Codex
+
+OpenAI's coding agent that runs in your terminal based on [openai/codex](https://github.com/openai/codex).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### AstrBot
+
+Agent platform bridging QQ, WeChat Work, Feishu, DingTalk, Telegram, and more based on [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot).
+
+Upstream license is AGPL-3.0.
+
+- Category: Personal Agent / IM Platform
+- Tags: AI · Functions · Auth
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### MaxKB
+
+Open-source platform for building enterprise-grade agents with RAG and workflows based on [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB).
+
+Upstream license is GPL-3.0.
+
+- Category: Enterprise Agent / Knowledge Base
+- Tags: AI · Database · Functions
+
+Vectoree provides the backend for model serving, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Eigent
+
+Open-source Cowork desktop with a multi-agent workforce based on [eigent-ai/eigent](https://github.com/eigent-ai/eigent).
+
+- Category: Cowork Desktop / Multi-agent
+- Tags: AI · Functions · Storage
+
+Vectoree provides the backend for model serving, storage, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
