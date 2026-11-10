@@ -561,6 +561,58 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Pi
+
+Installable coding agent CLI/TUI based on [earendil-works/pi](https://github.com/earendil-works/pi).
+
+- Category: Coding Agent / CLI & TUI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Gemini CLI
+
+Google's official terminal coding agent based on [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Qwen Code
+
+Qwen's official terminal coding agent based on [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Parlant
+
+Open platform for building customer-facing chat agents based on [emcie-co/parlant](https://github.com/emcie-co/parlant).
+
+- Category: Conversational Agent / Customer Chat
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
