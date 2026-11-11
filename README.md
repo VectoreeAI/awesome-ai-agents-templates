@@ -613,6 +613,60 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Orca
+
+Coding-agent fleet workspace for desktop, mobile, and remote runtime based on [stablyai/orca](https://github.com/stablyai/orca).
+
+- Category: Coding Agent / Orchestration Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Paseo
+
+Desktop and mobile workspace for orchestrating multiple coding agents based on [getpaseo/paseo](https://github.com/getpaseo/paseo).
+
+Upstream license is Apache-2.0; third-party components retain their own licenses.
+
+- Category: Agent Dev Environment / Multi-platform
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### MindsHub
+
+Unified knowledge-work / Cowork workspace for open-source models based on [mindsdb/mindshub](https://github.com/mindsdb/mindshub).
+
+- Category: Knowledge Workspace / Cowork
+- Tags: AI · Database · Functions
+
+Vectoree provides the backend for model serving, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### SurfSense
+
+Privacy-focused, air-gapped NotebookLM alternative and document research agent based on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense).
+
+- Category: Document Research / Privacy-first RAG
+- Tags: AI · Database · Functions
+
+Vectoree provides the backend for model serving, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
