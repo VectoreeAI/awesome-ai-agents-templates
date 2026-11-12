@@ -667,6 +667,73 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### DeepSeek Harness
+
+Plugin-based general-purpose agent harness with a one-command Web UI based on [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness).
+
+This project is a developer preview; the upstream README states there will be compatibility-breaking changes.
+
+- Category: Agent Harness / Plugin Runtime
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### CowAgent
+
+Open-source personal AI assistant and agent harness with memory, skills, and multi-channel access based on [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent).
+
+- Category: Personal Agent / Agent Harness
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### QwenPaw
+
+Personal AI assistant that can be deployed locally or in the cloud and connects to multiple chat apps based on [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw).
+
+- Category: Personal Agent / Multi-channel
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### PentAGI
+
+Fully autonomous penetration-testing agent system based on [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi).
+
+- Category: Security / Penetration Testing
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Kilo Code
+
+All-in-one open-source coding agent platform based on [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode).
+
+- Category: Coding Agent / Engineering Platform
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
