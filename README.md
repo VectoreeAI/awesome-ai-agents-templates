@@ -734,6 +734,32 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### ChatDev
+
+Multi-agent software development platform based on [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev).
+
+- Category: Multi-Agent / Software Development
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Continue
+
+Open-source coding agent for VS Code, JetBrains, CLI, and CI based on [continuedev/continue](https://github.com/continuedev/continue).
+
+- Category: Coding Agent / IDE
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
