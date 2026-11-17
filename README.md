@@ -760,6 +760,112 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### AionUi
+
+Desktop Cowork workspace that manages OpenClaw, Hermes, Claude Code, Codex, and 20+ other CLI agents from one interface based on [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi).
+
+- Category: Cowork / Desktop Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### career-ops
+
+Open-source job search agent that scans listings, scores jobs against a resume, tailors ATS-friendly resumes and cover letters, and prepares interviews based on [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops).
+
+- Category: Career / Job Search Agent
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Vibe-Trading
+
+Personal trading agent based on [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading).
+
+- Category: Finance / Trading Agent
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### TradingAgents
+
+Multi-agent financial trading application based on [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents).
+
+- Category: Finance / Multi-Agent Trading
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### OpenManus
+
+General-purpose Manus-style agent that can be started locally based on [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus).
+
+- Category: General Agent / Autonomous
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Skyvern
+
+Browser workflow and RPA product driven by vision models based on [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern).
+
+Upstream license is AGPL-3.0.
+
+- Category: Browser Agent / RPA
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### GenOffice
+
+Open-source AI Office suite for Word, Excel, PowerPoint, and PDF, with a built-in agent based on [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice).
+
+- Category: AI Office / Productivity
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Octop
+
+Self-hosted multi-user, multi-agent assistant from Tencent Cloud based on [TencentCloud/Octop](https://github.com/TencentCloud/Octop).
+
+- Category: AI Chat / Multi-Agent Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
