@@ -866,6 +866,71 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Open Notebook
+
+Open-source, self-hostable NotebookLM alternative based on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook).
+
+- Category: Research / Knowledge Notebook
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### OpenChamber
+
+Agentic development workspace built on OpenCode across desktop, web, VS Code and mobile, with review and release flows based on [openchamber/openchamber](https://github.com/openchamber/openchamber).
+
+- Category: Coding Agent / Dev Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### ZCode
+
+Z.ai's official coding agent for terminal, desktop and browser based on [zai-org/ZCode](https://github.com/zai-org/ZCode).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Kimi Code
+
+Moonshot AI's official terminal coding agent based on [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Nod
+
+n8n Labs' personal agent with its own computer and browser that gets tasks done on real websites (research preview) based on [n8n-io/nod](https://github.com/n8n-io/nod).
+
+- Category: Personal Agent / Computer Use
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
