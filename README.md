@@ -931,6 +931,86 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### OpenBot
+
+CopilotKit's self-hosted AI coworker workspace, with a desktop installer and Kubernetes deploy option based on [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot).
+
+- Category: Cowork / Desktop Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### ZeroClaw
+
+Lightweight Rust single-binary personal AI assistant runtime supporting 30+ channels based on [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw).
+
+- Category: Personal Assistant / Multi-Channel
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Codewhale
+
+Rust terminal coding agent that works with any model and can split work across multiple agents based on [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### MiMo Code
+
+Xiaomi's official coding agent CLI based on [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code).
+
+- Category: Coding Agent / CLI
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Cindy
+
+Out-of-the-box personal agent that syncs across computer and phone and can remotely operate the desktop based on [makecindy/cindy](https://github.com/makecindy/cindy).
+
+- Category: Personal Agent / Multi-Device
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### OpenMontage
+
+Agent video production system that turns a coding assistant into a video studio via skills and knowledge files based on [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage).
+
+Upstream license is AGPL-3.0.
+
+- Category: Video / Content Production
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
