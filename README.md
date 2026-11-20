@@ -1011,6 +1011,90 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### OpenHuman
+
+Rust personal agent runtime with desktop, terminal and headless server modes (early beta) based on [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman).
+
+Upstream license is GPL-3.0.
+
+- Category: Personal Agent / Runtime
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### OpenWork
+
+Open-source Claude Cowork alternative built on OpenCode, based on [different-ai/openwork](https://github.com/different-ai/openwork).
+
+Upstream license is mixed: MIT for the desktop app, with a source-available commercial license for the `ee/` directory.
+
+- Category: Cowork / Desktop Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### AgenticSeek
+
+Fully local Manus alternative that thinks, browses the web and writes code without cloud APIs based on [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek).
+
+Upstream license is GPL-3.0.
+
+- Category: General Agent / Local
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### OpenMAIC
+
+Tsinghua's multi-agent interactive classroom, deployable in one click, based on [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC).
+
+- Category: Education / Multi-Agent Classroom
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Orkas
+
+Local-first desktop AI team where a Commander breaks goals into tasks and dispatches built-in specialists plus Claude Code, Codex, OpenCode, OpenClaw and Hermes based on [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas).
+
+- Category: Multi-Agent / Desktop Team
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### BISHENG
+
+Enterprise agent platform with workflows, RAG and desktop agents based on [dataelement/bisheng](https://github.com/dataelement/bisheng).
+
+- Category: Agent Platform / Enterprise
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
