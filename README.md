@@ -1095,6 +1095,71 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Leon
+
+Open-source personal assistant based on [leon-ai/leon](https://github.com/leon-ai/leon).
+
+- Category: Personal Assistant
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### ThinkRail
+
+JetBrains' agentic IDE that gets better every time you use it based on [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail).
+
+- Category: Coding Agent / IDE
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### jcode
+
+High-performance Rust coding agent harness built for heavy multi-agent development workflows based on [1jehuang/jcode](https://github.com/1jehuang/jcode).
+
+- Category: Coding Agent / Multi-Agent
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### qm
+
+YC Labs' multiplayer agent harness for teams based on [yc-software/qm](https://github.com/yc-software/qm).
+
+- Category: Team Collaboration / Multi-Agent Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Mika
+
+On-device AI agent for Android that operates apps and the web to get things done based on [wangzan101/Mika](https://github.com/wangzan101/Mika).
+
+- Category: Mobile Agent / Android
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
