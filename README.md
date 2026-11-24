@@ -1160,6 +1160,84 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### NextChat
+
+Cross-platform AI chat assistant for web, desktop, and mobile based on [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat).
+
+- Category: AI Chat
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### ai-hedge-fund
+
+Multi-agent AI hedge fund team for investment research and trading decisions based on [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund).
+
+- Category: Finance / Multi-Agent Trading
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### n8n Self-hosted AI Starter Kit
+
+Official n8n starter kit for spinning up a local, self-hosted AI and automation environment based on [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit).
+
+- Category: Automation / Starter Kit
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Vane
+
+Open-source AI answer engine and Perplexity alternative, formerly Perplexica, based on [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane).
+
+- Category: AI Search / Answer Engine
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Archon
+
+Open-source harness builder that makes AI coding deterministic and repeatable based on [coleam00/Archon](https://github.com/coleam00/Archon).
+
+- Category: Coding Agent / Harness Builder
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Magentic-UI
+
+Microsoft's experimental human-in-the-loop agent that works across the browser and local file system (now called MagenticLite) based on [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui).
+
+- Category: Computer Use / Browser Agent
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
