@@ -1238,6 +1238,77 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### Jan
+
+Open-source ChatGPT alternative that runs 100% offline on your computer based on [janhq/jan](https://github.com/janhq/jan).
+
+Upstream license is Apache-2.0; attribution is requested in user-facing documentation.
+
+- Category: AI Chat / Local Desktop
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### WeKnora
+
+Open-source LLM knowledge platform that turns documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki based on [Tencent/WeKnora](https://github.com/Tencent/WeKnora).
+
+- Category: Enterprise Agent / Knowledge Base
+- Tags: AI · Database · Functions
+
+Vectoree provides the backend for model serving, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Onyx
+
+Open-source enterprise AI chat and knowledge retrieval platform (formerly Danswer) based on [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx).
+
+Upstream license is mixed: MIT for the core, with the Onyx Enterprise License for the `ee/` directories.
+
+- Category: Enterprise Search / AI Chat
+- Tags: AI · Auth · Database
+
+Vectoree provides the backend for model serving, authentication, database, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Multica
+
+Open-source, self-hostable team workspace where humans and AI agents work together based on [multica-ai/multica](https://github.com/multica-ai/multica).
+
+Upstream license is Apache-2.0 with additional commercial and branding restrictions; `ee/` is separately licensed.
+
+- Category: Team Workspace / Self-hosted
+- Tags: AI · Auth · Functions
+
+Vectoree provides the backend for model serving, authentication, and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### cc-switch
+
+Cross-platform desktop all-in-one assistant for Claude Code, Codex, OpenCode, DeepSeek Harness, and more, including provider and skills management based on [farion1231/cc-switch](https://github.com/farion1231/cc-switch).
+
+- Category: Cowork / Desktop Workspace
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
