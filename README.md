@@ -1309,6 +1309,45 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### HyperFrames
+
+Open-source AI video editor from HeyGen, with a free Studio desktop app, that can also render videos from Claude Code or Codex based on [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes).
+
+- Category: Video / Desktop Studio
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### herdr
+
+Terminal runtime for coding agents: a Rust binary that hosts Claude Code, Codex, and OpenCode sessions with split panes, disconnect recovery, and multi-machine support based on [herdrdev/herdr](https://github.com/herdrdev/herdr).
+
+- Category: Terminal Runtime / Agent Multiplexer
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### magpie
+
+Menu-bar local gateway that unifies model and account selection for Claude Code, Codex, Gemini CLI, OpenCode, and similar agents, and fails over when a quota runs out based on [yetone/magpie](https://github.com/yetone/magpie).
+
+- Category: Model Gateway / Desktop
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
