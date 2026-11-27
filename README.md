@@ -1348,6 +1348,58 @@ Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/template
 
 ---
 
+### T3 Code
+
+Open-source coding-agent control plane that runs Claude Code, Codex, OpenCode, and Pi locally while sharing threads and remote command approvals across desktop, mobile, and web based on [pingdotgg/t3code](https://github.com/pingdotgg/t3code).
+
+- Category: Coding Agent / Control Plane
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### Airi
+
+Self-hosted digital companion with real-time voice chat and cross-platform web, macOS, and Windows clients based on [moeru-ai/airi](https://github.com/moeru-ai/airi).
+
+- Category: Voice / Digital Companion
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### next-ai-draw-io
+
+AI diagramming app and MCP server that creates and edits draw.io flowcharts and architecture diagrams through chat on web and desktop based on [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io).
+
+- Category: Diagramming / Design Agent
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
+### OmniRoute
+
+Self-hostable multi-provider AI gateway for coding agents with quota-aware auto-fallback, token compression, and desktop or PWA management based on [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute).
+
+- Category: Model Gateway / Self-hosted
+- Tags: AI · Functions
+
+Vectoree provides the backend for model serving and related agent capabilities.
+
+Get started: [View Templates on Vectoree](https://vectoree.ai/dashboard/templates)
+
+---
+
 ## Community Templates
 
 A collection of popular and high-quality AI agent templates from the open-source community.
